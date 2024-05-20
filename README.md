@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aftab Khan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">DevOps student eager to learn and help automate workflows and manage infrastructure for smooth software delivery.</h3>
 <img align="right" alt="Coding" width="400" src=https://dribbble.com/shots/4502902-DevOps-engineer-animation/attachments/10432181?mode=media>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabkhan7654&label=Profile%20views&color=0e75b6&style=flat" alt="aftabkhan7654" /> </p>
