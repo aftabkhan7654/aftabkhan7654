@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aftab Khan</h1>
 <h3 align="center">DevOps student eager to learn and help automate workflows and manage infrastructure for smooth software delivery.</h3>
-<img align="right" alt="Coding" width="400" src=https://dribbble.com/shots/4502902-DevOps-engineer-animation/attachments/10432181?mode=media>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabkhan7654&label=Profile%20views&color=0e75b6&style=flat" alt="aftabkhan7654" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aftabkhan7654" alt="aftabkhan7654" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **Docker, Shell Scripting, Linux, AWS**
 
 - 📫 How to reach me **i.aftabkhan7654@gmail.com**
