@@ -3,7 +3,3 @@
 - 🌱 I’m currently learning **Docker, Shell Scripting, Linux, AWS**
 
 - 📫 How to reach me **i.aftabkhan7654@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
